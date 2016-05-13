@@ -1,0 +1,33 @@
+AD EUCLIDEM LIB. Ι. 87
+
+'nisi linea ab. Quod si possibile est, ut sit alia ab ea,
+non tamen (aliter) est possibile, quin eadat vel ultra
+eam vel eitra eam. Ponam ergo primum, ut eadat ultra
+ipsam siout linea bd, et ponam, ut sit angulus dby reotus
+angulus: ergo bdq est minor recto, quod constat seeundum ⁵
+probationem figure 17⁰,
+ergo angulus aab est
+expansus. Remanet ergo
+angulus dab acutus,
+ergo seeundum proba-10
+tionem figure 17⁰ latus
+a ab est maius latere od.
+Producam ergo bd se-
+cundum rectitudinem
+usque ad punctum e, donee sit ob equalis be, et coniungens
+eq. Duo (igitur) quadrata, que fiunt ex linea be et linea
+by sunt equalia quadrato linee eq. Sed iem fuerunt equalia
+quadrato oo: ergo linea oq est equalis linee eq. Ergo
+iam protrahuntur a duabus extremitatibus unius reete
+linea, que est linea bo, due linae, quarum extremitates 20
+supra punctum unum concurrunt, que sunt linea be, eq,
+<et que sunt equales duabus lineis ba, oo), quod, seeun-
+dum probationem figure septime eontrarium et impossibile.
+Et similiter ducitur ad impossibile, si fuerit linea cadens
+eitra lineam ab: ergo linea ab est ea, que orthogonaliter 25
+adiungitur linee b93 et illud est, quod demonstrare voluimus.
+
+17-18. Sed oy io Maeote. repetitor.
+
+ 
+
